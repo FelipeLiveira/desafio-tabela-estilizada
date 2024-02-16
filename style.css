@@ -1,0 +1,17 @@
+table, th, td{
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-collapse: collapse;
+    text-align: center;
+}
+.cabeca-moda{
+    background-color: #BB86FC;
+}
+
+.cabeca-casa{
+background-color: #00C4B4;
+}
+
+.produtos{
+    background-color: #424250;
+}
