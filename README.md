@@ -1,12 +1,8 @@
 # Readme desafio tabela estilizada
 
-Esse projeto foi desenvolvido para testar minhas habilidades basicas de HTML e CSS.
+Esse projeto foi desenvolvido para testar minhas habilidades basicas de HTML e CSS.<br>
 
-Buscou-se seguir todas as orientaçoes do enunciado, bem como foi realizada uma cópia fiel da tabela exemplo.
+Buscou-se seguir todas as orientaçoes do enunciado, bem como foi realizada uma cópia fiel da tabela exemplo.<br>
 
-Teste de modificaçao
-
-Teste com o VS COde
-
-Comunidade Dev Quest
+Comunidade Dev Quest <br>
 Felipe de Oliveira
